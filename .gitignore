@@ -1,4 +1,11 @@
-# Compiled binaries
-*.out
-*.o
-bin/
+# Ignore everything by default
+*
+
+# Allow folders
+!*/
+
+# Allow C++ source files
+!*.cpp
+
+# Optional: headers
+!*.h
