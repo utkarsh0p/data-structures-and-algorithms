@@ -1,0 +1,11 @@
+Bubble Sort is a basic sorting algorithm.
+
+It works by:
+
+Comparing two adjacent elements
+
+If they are in the wrong order, swap them
+
+Repeat this process until the list is sorted
+
+Big numbers “bubble” to the end of the list.

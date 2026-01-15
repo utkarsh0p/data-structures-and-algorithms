@@ -1,8 +1,4 @@
-# Ignore everything by default
-*
-
-# Allow folders
-!*/
-
-# Optional: headers
-!*.h
+# Ignore build files
+build/
+*.exe
+*.o
