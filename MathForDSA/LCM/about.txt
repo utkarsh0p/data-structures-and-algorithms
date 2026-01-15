@@ -1,0 +1,7 @@
+so basically when we have numbers a and b then
+
+a*b = gcd(a,b) * lcm
+lcm = a*b/gcd(a,b)
+
+
+so that is how we will get the lcm , first we have to get the gcd of the numbers and apply the formula
