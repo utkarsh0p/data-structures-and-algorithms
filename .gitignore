@@ -4,8 +4,5 @@
 # Allow folders
 !*/
 
-# Allow C++ source files
-!*.cpp
-
 # Optional: headers
 !*.h
