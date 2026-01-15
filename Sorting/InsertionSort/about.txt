@@ -1,0 +1,15 @@
+Insertion Sort is a simple sorting algorithm.
+
+It works like:
+
+“Jaise tum cards ko haath mein sort karte ho —
+ek-ek card uthao aur sahi jagah pe daal do.”
+
+How it works (Idea)
+
+Second element se start hota hai
+
+Us element ko left side ke sorted part mein
+sahi position pe insert karta hai
+
+Ye process har element ke liye repeat hota hai
