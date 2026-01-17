@@ -1,4 +1,5 @@
-# Ignore build files
-build/
-*.exe
-*.o
+*
+!*.cpp
+!*.h
+!*.md
+!*/
